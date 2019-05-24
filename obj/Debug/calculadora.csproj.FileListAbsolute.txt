@@ -1,0 +1,10 @@
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\bin\Debug\calculadora.exe.config
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\bin\Debug\calculadora.exe
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\bin\Debug\calculadora.pdb
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\obj\Debug\calculadora.exe
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\obj\Debug\calculadora.pdb
+D:\Documentos\Vinicius\Faculdade\C#\calculadora\calculadora\obj\Debug\calculadora.Calculadora.resources
